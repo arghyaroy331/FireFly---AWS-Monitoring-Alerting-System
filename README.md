@@ -1,6 +1,6 @@
 <div align="center">
 
-# AWS Monitoring & Alerting System
+#FireFly - AWS Monitoring & Alerting System
 
 **A Terraform-provisioned Amazon EC2 web server, monitored with CloudWatch Agent metrics, CloudWatch alarms, a dashboard, and SNS email alerts.**
 
